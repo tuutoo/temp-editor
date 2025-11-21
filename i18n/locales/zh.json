@@ -1,0 +1,12 @@
+{
+  "welcome": "欢迎",
+  "title": "基于 Nuxt UI 的临时所见即所得编辑器",
+  "description": "一个由 Nuxt 和 UMO Editor 构建的临时 WYSIWYG 编辑器。",
+  "builtWith": "使用 Nuxt UI 构建",
+  "github": "GitHub",
+  "language": "语言",
+  "english": "English",
+  "chinese": "中文",
+  "startTyping": "开始编写...",
+  "docTitle": "文档"
+}

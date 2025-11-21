@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    ports:
+      - "3131:3131"
+    environment:
+      - NITRO_PORT=3131
+      - NITRO_HOST=0.0.0.0
+    restart: always

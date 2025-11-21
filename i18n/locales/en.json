@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome",
+  "title": "A temp WYSIWYG Editor with Nuxt UI",
+  "description": "A temp WYSIWYG Editor built with Nuxt and UMO Editor.",
+  "builtWith": "Built with Nuxt UI",
+  "github": "GitHub",
+  "language": "Language",
+  "english": "English",
+  "chinese": "中文",
+  "startTyping": "Start typing...",
+  "docTitle": "Document Title"
+}
