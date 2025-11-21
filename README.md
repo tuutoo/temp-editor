@@ -18,6 +18,14 @@ An online rich text editor based on [UMO Editor](https://github.com/umodoc/edito
 - 🐳 **Docker Deployment** - Support for Docker containerized deployment
 - 📊 **Google Analytics** - Optional visitor analytics
 
+## 🎉 Screenshots
+<img width="806" height="427" alt="image" src="https://github.com/user-attachments/assets/a4799422-bfb3-48ce-9871-7ed66f69ddeb" />
+
+Mobile view
+
+<img width="223" height="418" alt="image" src="https://github.com/user-attachments/assets/4d38b4fb-a8c1-463d-b2fa-edba930a5685" />
+
+
 ## 🎯 File Storage Modes
 
 ### Local Mode (Default)
