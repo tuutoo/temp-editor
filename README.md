@@ -12,6 +12,7 @@ An online rich text editor based on [UMO Editor](https://github.com/umodoc/edito
 - 📝 **Powerful Editing** - Built on UMO Editor, providing complete rich text editing capabilities
 - 🌍 **Multi-language Support** - Support for Chinese and English interfaces with one-click switching
 - 🎨 **Dark Mode** - Built-in light/dark themes with automatic system preference adaptation
+- 📱 **Mobile Friendly** - Responsive design optimized for mobile devices and tablets
 - 📁 **File Management** - Support for uploading and managing images, videos and other files
 - 💾 **Auto-save** - Document content automatically saved to browser local storage
 - 🔄 **State Persistence** - Automatically save and restore editing content when switching languages or themes
